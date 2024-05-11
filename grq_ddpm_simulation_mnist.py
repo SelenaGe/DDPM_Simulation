@@ -1,5 +1,3 @@
-Here is the Python code with the comments removed:
-
 ```python
 # -*- coding: utf-8 -*-
 """GRQ_DDPM simulation_Mnist.ipynb
